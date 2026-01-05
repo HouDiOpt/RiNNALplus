@@ -1,0 +1,69 @@
+function fname = problems_BIQ()
+fname{1} = 'bqp50.1';
+fname{2} = 'bqp50.2';
+fname{3} = 'bqp50.3';
+fname{4} = 'bqp50.4';
+fname{5} = 'bqp50.5';
+fname{6} = 'bqp50.6';
+fname{7} = 'bqp50.7';
+fname{8} = 'bqp50.8';
+fname{9} = 'bqp50.9';
+fname{10} = 'bqp50.10';
+
+fname{11} = 'bqp100.1';
+fname{12} = 'bqp100.2';
+fname{13} = 'bqp100.3';
+fname{14} = 'bqp100.4';
+fname{15} = 'bqp100.5';
+fname{16} = 'bqp100.6';
+fname{17} = 'bqp100.7';
+fname{18} = 'bqp100.8';
+fname{19} = 'bqp100.9';
+fname{20} = 'bqp100.10';
+
+fname{21} = 'bqp250.1';
+fname{22} = 'bqp250.2';
+fname{23} = 'bqp250.3';
+fname{24} = 'bqp250.4';
+fname{25} = 'bqp250.5';
+fname{26} = 'bqp250.6';
+fname{27} = 'bqp250.7';
+fname{28} = 'bqp250.8';
+fname{29} = 'bqp250.9';
+fname{30} = 'bqp250.10';
+
+fname{31} = 'bqp500.1';
+fname{32} = 'bqp500.2';
+fname{33} = 'bqp500.3';
+fname{34} = 'bqp500.4';
+fname{35} = 'bqp500.5';
+fname{36} = 'bqp500.6';
+fname{37} = 'bqp500.7';
+fname{38} = 'bqp500.8';
+fname{39} = 'bqp500.9';
+fname{40} = 'bqp500.10';
+
+fname{41} = 'bqp1000.1';
+fname{42} = 'bqp1000.2';
+fname{43} = 'bqp1000.3';
+fname{44} = 'bqp1000.4';
+fname{45} = 'bqp1000.5';
+fname{46} = 'bqp1000.6';
+fname{47} = 'bqp1000.7';
+fname{48} = 'bqp1000.8';
+fname{49} = 'bqp1000.9';
+fname{50} = 'bqp1000.10';
+
+fname{51} = 'bqp2500.1';
+fname{52} = 'bqp2500.2';
+fname{53} = 'bqp2500.3';
+fname{54} = 'bqp2500.4';
+fname{55} = 'bqp2500.5';
+fname{56} = 'bqp2500.6';
+fname{57} = 'bqp2500.7';
+fname{58} = 'bqp2500.8';
+fname{59} = 'bqp2500.9';
+fname{60} = 'bqp2500.10';
+
+fname{61} = 'BIQ-n5000';
+fname{62} = 'BIQ-n10000';
